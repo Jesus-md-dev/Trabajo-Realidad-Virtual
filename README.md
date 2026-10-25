@@ -4,7 +4,7 @@ Virtual reality shooter made in Unity: destroy the alien ships before they crash
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C#-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-**Project files and build:** [Google Drive](https://drive.google.com/drive/folders/1TpVHAA-TqIM9Q90Jiagq-ru0oQjjeoPe?usp=sharing)
+**Gameplay video:** [YouTube](https://www.youtube.com/watch?v=CMsBWdokYGc)
 
 More about my games at [jzmarquez.com](https://jzmarquez.com/).
 
