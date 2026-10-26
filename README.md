@@ -4,7 +4,7 @@ Virtual reality shooter made in Unity: destroy the alien ships before they crash
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C#-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-**Gameplay video:** [YouTube](https://www.youtube.com/watch?v=CMsBWdokYGc)
+**Play in the browser:** [lab.jzmarquez.com/space-survival](https://lab.jzmarquez.com/space-survival/) (WebGL reconstruction with mouse/touch controls) · **Gameplay video:** [YouTube](https://www.youtube.com/watch?v=CMsBWdokYGc)
 
 More about my games at [jzmarquez.com](https://jzmarquez.com/).
 
